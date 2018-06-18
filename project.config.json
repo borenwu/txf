@@ -1,0 +1,10 @@
+{
+	"miniprogramRoot": "./client",
+	"qcloudRoot": "./server",
+	"setting": {
+		"newFeature": true
+	},
+	"appid": "wxffb83f70f87bd086",
+	"projectname": "txf",
+	"condition": {}
+}

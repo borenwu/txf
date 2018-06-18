@@ -1,0 +1,16 @@
+.container{
+        padding:0 30rpx;
+    }
+    .userinfo{
+        margin-top:100rpx;
+        text-align:center;
+    }
+    .userinfo-nickname {
+        font-size: 32rpx;
+        color: #007AFF;
+        background-color: white;
+        border-color: #ff6842;
+    }
+    button::after{
+        border: none;
+    }
